@@ -1,5 +1,5 @@
 # Jadrian's Page for Coding
-## Where class projects for the MIT xPro Coding Certification program will be stored
+## Where projects for the MIT xPro Coding Certification program will be stored
 <a href="https://github.com/JadrianBG/Pac-Men-Exercise"> Pac Men Exercise </a>
 
 <a href="https://github.com/JadrianBG/Eye-Exercise"> Eye Movement Exercise </a>
