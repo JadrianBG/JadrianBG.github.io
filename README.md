@@ -11,3 +11,4 @@
 
 <a href="https://github.com/JadrianBG/Real-Time-Bus-Tracker"> Real Time Bus Tracker </a>
 
+<br/>![image](mitxprologo.jpg) 
