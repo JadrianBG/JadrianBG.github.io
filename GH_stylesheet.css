@@ -1,11 +1,11 @@
 /* unvisited link */
-a:link{
+a:link {
     color: darkgreen;
 }
 
 /* visited link */
 a:visited {
-    color: darkorchid
+    color: darkorchid;
 }
 
 /* mouse over link */
